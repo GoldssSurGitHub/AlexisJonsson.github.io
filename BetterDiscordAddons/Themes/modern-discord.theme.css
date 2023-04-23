@@ -1,5 +1,5 @@
 /**
- * @name luffy
+ * @name luf
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,6 +12,7 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
 :root {
   --main-color: #C1C78D;
@@ -19,7 +20,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('C:\Users\Goldss\Pictures\luffy discord.png');
+  --background-image: url('https://i.imgur.com/9lfHqrC.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -32,7 +33,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -58,7 +59,7 @@
   --home-position: center;
   --home-size: 40px;
   --channel-unread: #FFC107;
-  --channel-color: rgb(255,235,59,1);
+  --channel-color: rgb(255,193,7,1);
   --muted-color: rgb(103,58,183,1);
   --online-color: #43b581;
   --idle-color: #faa61a;
