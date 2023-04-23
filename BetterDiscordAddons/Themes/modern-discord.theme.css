@@ -15,7 +15,7 @@
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
 :root {
-  --main-color: #C1C78D;
+  --main-color: #4DBCEF;
   --hover-color: #000000;
   --success-color: #43b581;
   --danger-color: #982929;
@@ -58,8 +58,8 @@
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
-  --channel-unread: #FFC107;
-  --channel-color: rgb(255,193,7,1);
+  --channel-unread: #03A9F4;
+  --channel-color: rgb(33,150,243,1);
   --muted-color: rgb(103,58,183,1);
   --online-color: #43b581;
   --idle-color: #faa61a;
@@ -90,6 +90,6 @@
   --HSL-server-spacing: 10px;
 }
 
-/* Any custom CSS below here */ 
+/* Any custom CSS below here */
 
 
